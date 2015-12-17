@@ -55,6 +55,7 @@ public class MoneybookAuto {
 
 		
 		moneyBookUtil.Login(driver);
+		System.out.println("test");
 	}
 
 	
